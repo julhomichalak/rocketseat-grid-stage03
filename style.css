@@ -26,6 +26,7 @@ body {
 
   background-color: var(--bg-primary);
   color: var(--fc-primary);
+  padding-bottom: 150px;
 }
 
 .page {
